@@ -10,3 +10,21 @@ body{
 html{
 scroll-behavior:smooth;
 }
+/* Custom Scrollbar */
+
+::-webkit-scrollbar{
+width:10px;
+}
+
+::-webkit-scrollbar-track{
+background:rgb(74, 72, 72);
+}
+
+::-webkit-scrollbar-thumb{
+background:#527cd6;
+border-radius:20px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+background:#3b82f6;
+}
