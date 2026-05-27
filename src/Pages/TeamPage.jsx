@@ -23,7 +23,9 @@ function TeamPage(){
     </div>
 ))}<br/>
 </div>
+
 </div>
+
     </main>
 
     </>)
