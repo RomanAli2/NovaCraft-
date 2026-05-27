@@ -22,10 +22,10 @@ AOS.init()
       <p className="text-white  font-bold italic ml-2">Welcome to NovaCraft</p>
     </span>
     <span className="text-white " >
-      <h1 className=" mt-1 font-bold text-3xl xl:text-8xl md:text-6xl">Crafting Digital <br/>
+      <h1 className=" mt-1 font-bold text-3xl xl:text-7xl md:text-6xl">Crafting Digital <br/>
       Futures <span className="text-blue-500">Together</span>
       </h1><br/>
-      <p className="text-sm md:text-lg xl:text-2xl "> We are creative digital agency and learning community<br/>
+      <p className="text-sm md:text-lg xl:text-xl "> We are creative digital agency and learning community<br/>
        helping  individual  grow in web development ,video editing <br/> and graphic designing</p>
        <br/>
     <a className="text-white bg-blue-600 px-4 py-2 rounded-lg" href="#More">More <i className="fa-solid fa-arrow-right"></i></a>

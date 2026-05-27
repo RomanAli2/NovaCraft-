@@ -17,8 +17,8 @@ function HeaderSection(){
     <NavLink className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" }to="/"> Home</NavLink>
     <NavLink className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" } to="/AboutPage"> About</NavLink>
     <NavLink  className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" } to="/TeamPage"> Our Team</NavLink>
-    <NavLink className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" } to="/ContactPage"> Contact</NavLink>
     <NavLink className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" } to="/IntershipPage"> Interships</NavLink>
+    <NavLink className={({ isActive }) => isActive ? "text-blue-400 font-bold" : "text-white" } to="/ContactPage"> Contact</NavLink>
     </div>
     </nav>
 </header>
