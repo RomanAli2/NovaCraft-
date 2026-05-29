@@ -2,7 +2,7 @@
 function TeamPage(){
     const OurTeam=[
         {Name:'Roman Ali' , Title:'Founder & CEO' , About:'Web Development , Guiding strategic, operational and innovation-driven initiatives' ,img:'/team/roman.jpeg',portfolio:'https://romanali.vercel.app/'},
-        {Name:'Ali Zain' , Title:'Co-Founder & CMO' , About:'Video Editor , Chief Marketing Officer & Social Manager',img:'/team/aliz.jpeg',portfolio:'https://alizain-nu.vercel.app/'},
+        {Name:'Ali Zain' , Title:'Co-Founder & CMO' , About:'Video Editor , Chief Marketing Officer & Social Manager',img:'/team/ali2.jpeg',portfolio:'https://alizain-nu.vercel.app/'},
         {Name:'Aoun Ashraf' , Title:'CFO & Risk Management' , About:'Graphics Designer , Chief Financial Officer & Financial Planning & Risk Management' ,img:'/team/aoun.jpeg',portfolio:'https://aoun-ashraf.vercel.app/'},
         {Name:'Abdullah Mustafa' , Title:'COO & Team Handler' , About:'Video Editor , Chief Operating Officer &  Team Handler',img:'/team/abdullah.jpeg',portfolio:'https://abdullah-mustafa.vercel.app/'},
 

@@ -20,7 +20,7 @@ function AboutPage(){
                 </span>
             </div>
             <div>
-                <img className='rounded-xl object-cover w-40' src='/ceo.png'/>
+                <img className='rounded-xl object-cover w-40' src='/team/roman.jpeg'/>
             </div>
             </div>
         </section><br/>
